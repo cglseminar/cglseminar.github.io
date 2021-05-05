@@ -10,3 +10,9 @@ The seminar takes place on every second Thursday (see below for the schedule) in
  * 15-7 **Daniel Murfet**: The cut operation on matrix factorisations
  * 29-7 **James Clift**: Smooth relaxations of Turing machines
  * 12-8 **Will Troiani**: Geometry of Interaction I: proofs as operators
+
+# Abstracts
+
+**Will Troiani** "Proof-nets: the sequentialisation theorem"
+
+Proof-structures, invented by J.Y.Girard 1986 paper "Linear Logic", is a variant on a sequent style calculus, proof-nets are non-sequential in nature. More precisely, this means the translation of sequent style linear logic into proof-nets loses the information of the order of various pairs of connectives. Moreover, this leniency on the side of proof-structures is so much so, that there exists proof-structures which do not come from the translation of any sequent style proof. Those structures which do lie in the image of this translation are the proof-nets, and so we are left with a question: how can we check whether a proof-structure is a proof-net? The answer to this question is given by the Sequentialization Theorem, which states that checks of certain paths on the underlying graph of the proof-structure determines the answer. This correctness criterion is the foundation upon which Girard's Geometry of Interaction I, a program set on interpreting proof-nets geometrically, rests. This two part talk is dedicated to proving the Sequentialization Theorem. The first of which will be concerned with carefully defining sequent style linear logic, proof-nets, and the translation from one to the other. The second part will then proceed to the proof of the Theorem.

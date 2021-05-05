@@ -1,4 +1,4 @@
-The seminar takes place on every second Thursday (starting the 6th of May) in the Russell Love room of Peter Hall at the University of Melbourne, 11am-12pm. The seminars will also be streamed live via [Zoom](https://unimelb.zoom.us/j/83059420071?pwd=VitKZjhvdkxmKzR6dmduLzhXYUI1UT09).
+The seminar takes place on every second Thursday (starting the 6th of May) in the Russell Love room of Peter Hall at the University of Melbourne, 11am-12pm. The seminars will also be streamed live via [Zoom](https://unimelb.zoom.us/j/83059420071?pwd=VitKZjhvdkxmKzR6dmduLzhXYUI1UT09). Discussion about the seminar takes place on the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8) in the channel `#cglseminar`.
 
 # Schedule
 

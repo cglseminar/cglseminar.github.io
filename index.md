@@ -6,7 +6,7 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io), Edmund Lau Tie
 
 # Schedule
 
- * 6-5 **Will Troiani**: Proof-nets: the Sequentialisation Theorem ([notes](/notes/Proof-nets.pdf)
+ * 6-5 **Will Troiani**: Proof-nets: the Sequentialisation Theorem ([notes](/notes/Proof-nets.pdf))
  * 20-5 **Will Troiani**: Geometry of Interaction zero: proofs as permutations
  * 3-6 **Tom Waring**: System F: strong normalisation
  * 17-6 **Edmund Lau**: Computation and Thermodynamics

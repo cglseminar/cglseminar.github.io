@@ -1,3 +1,5 @@
+A [mad day's work](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) on the border of theoretical computer science, mathematical logic and algebraic geometry.
+
 The seminar takes place on every second Thursday (see below for the schedule) in the Russell Love room of Peter Hall at the University of Melbourne, 11am-12pm AEDT. The seminars will also be streamed live via [Zoom](https://unimelb.zoom.us/j/83059420071?pwd=VitKZjhvdkxmKzR6dmduLzhXYUI1UT09). Discussion about the seminar takes place on the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8) in the channel `#cglseminar`. There will be a moderator in each seminar who will monitor the Zoom and Discord chat and pass along questions to the speaker. Talks will be recorded and posted to the [CGL YouTube channel](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ) within about a week.
 
 Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Murfet](http://www.therisingsea.org).

@@ -2,20 +2,19 @@ A [mad day's work](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00
 
 The seminar takes place on every second Thursday (see below for the schedule) in the Russell Love room of Peter Hall at the University of Melbourne, 11am-12pm AEDT. The seminars will be streamed live via [Zoom](https://unimelb.zoom.us/j/83059420071?pwd=VitKZjhvdkxmKzR6dmduLzhXYUI1UT09) and questions can be directed to the speaker, via a moderator, via Zoom chat. In between seminars discussions and announcements take place on the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8). Talks will be recorded and posted to the [CGL YouTube channel](https://youtube.com/playlist?list=PLKnx70LRf21dknsbvkSM1dx-m0DoyUukQ) within about a week.
 
-Co-organised by [Will Troiani](https://williamtroiani.github.io), Edmund Lau Tiew Hong and [Daniel Murfet](http://www.therisingsea.org).
+Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Murfet](http://www.therisingsea.org).
 
 # Schedule
 
  * 6-5 **Will Troiani**: Proof-nets: the Sequentialisation Theorem ([notes](/notes/Proof-nets.pdf))
- * 20-5 **Will Troiani**: Geometry of Interaction zero: proofs as permutations
- * 3-6 **Tom Waring**: System F: strong normalisation
- * 17-6 **Edmund Lau**: Computation and Thermodynamics
- * 1-7 **Daniel Murfet**: Matrix factorisations
- * 15-7 **Daniel Murfet**: The cut operation on matrix factorisations
- * 29-7 **James Clift**: Smooth relaxations of Turing machines
- * 12-8 **Will Troiani**: Geometry of Interaction I: proofs as operators
-
-There will be more talks added on singular learning theory.
+ * 20-5 **no seminar**
+ * **Will Troiani**: Geometry of Interaction zero: proofs as permutations
+ * **Tom Waring**: System F: strong normalisation
+ * **Edmund Lau**: Computation and Thermodynamics
+ * **Daniel Murfet**: Matrix factorisations
+ * **Daniel Murfet**: The cut operation on matrix factorisations
+ * **James Clift**: Smooth relaxations of Turing machines
+ * **Will Troiani**: Geometry of Interaction I: proofs as operators
 
 # Abstracts
 

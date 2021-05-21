@@ -6,7 +6,7 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 
 # Schedule
 
- * 6-5 **Will Troiani**: Proof-nets ([notes](/notes/Proof-nets.pdf) | [video](https://youtu.be/OscoUN_kWUE))
+ * 6-5 **Will Troiani**: Proof-nets ([notes](/notes/Proof-nets.pdf)|[video](https://youtu.be/OscoUN_kWUE))
  * 20-5 **no seminar**
  * 3-6 **Will Troiani**: Proof-nets: the Sequentialisation Theorem ([notes](/notes/Proof-nets.pdf))
  * **Tom Waring**: System F: strong normalisation

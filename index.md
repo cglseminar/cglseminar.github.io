@@ -7,8 +7,8 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 # Schedule
 
 * 6-5 **Will Troiani** - Proof-nets - [notes](/notes/Proof-nets.pdf) | [video](https://youtu.be/OscoUN_kWUE)
-* 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](/notes/Proof-nets.pdf)
-* **Will Troiani** - Geometry of Interaction zero: proofs as permutations
+* 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](/notes/Proof-nets.pdf) | [video](https://youtu.be/TUaqBmV75vg)
+* 17-6 **Will Troiani** - Geometry of Interaction zero: proofs as permutations - [notes](/notes/Proof-nets.pdf)
 * **Tom Waring** - System F: strong normalisation
 * **Edmund Lau** - Computation and Thermodynamics
 * **Daniel Murfet** - Matrix factorisations

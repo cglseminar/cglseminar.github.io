@@ -6,15 +6,15 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 
 # Schedule
 
-* 6-5 **Will Troiani**: Proof-nets -- [notes](/notes/Proof-nets.pdf) | [video](https://youtu.be/OscoUN_kWUE)
-* 3-6 **Will Troiani**: Proof-nets: the Sequentialisation Theorem -- [notes](/notes/Proof-nets.pdf)
-* **Tom Waring**: System F: strong normalisation
-* **Will Troiani**: Geometry of Interaction zero: proofs as permutations
-* **Edmund Lau**: Computation and Thermodynamics
-* **Daniel Murfet**: Matrix factorisations
-* **Daniel Murfet**: The cut operation on matrix factorisations
-* **James Clift**: Smooth relaxations of Turing machines
-* **Will Troiani**: Geometry of Interaction I: proofs as operators
+* 6-5 **Will Troiani** - Proof-nets - [notes](/notes/Proof-nets.pdf) | [video](https://youtu.be/OscoUN_kWUE)
+* 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](/notes/Proof-nets.pdf)
+* **Will Troiani** - Geometry of Interaction zero: proofs as permutations
+* **Tom Waring** - System F: strong normalisation
+* **Edmund Lau** - Computation and Thermodynamics
+* **Daniel Murfet** - Matrix factorisations
+* **Daniel Murfet** - The cut operation on matrix factorisations
+* **James Clift** - Smooth relaxations of Turing machines
+* **Will Troiani** - Geometry of Interaction I: proofs as operators
 
 # Abstracts
 

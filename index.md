@@ -9,7 +9,7 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 * 6-5 **Will Troiani** - Proof-nets - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/OscoUN_kWUE)
 * 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/TUaqBmV75vg)
 * 17-6 **Will Troiani** - Geometry of Interaction zero: proofs as permutations - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/jcqTq4a1kjY).
-* **Tom Waring** - System F: strong normalisation
+* 8-7 **Tom Waring** - System F: strong normalisation
 * **Edmund Lau** - Computation and Thermodynamics
 * **Daniel Murfet** - Matrix factorisations
 * **Daniel Murfet** - The cut operation on matrix factorisations

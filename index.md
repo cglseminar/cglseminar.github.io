@@ -10,8 +10,10 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 * 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/TUaqBmV75vg)
 * 17-6 **Will Troiani** - Geometry of Interaction zero: proofs as permutations - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/jcqTq4a1kjY).
 * 8-7 **Tom Waring** - System F: strong normalisation - [notes](./sem.pdf).
-* **Edmund Lau** - Computation and Thermodynamics
-* **Daniel Murfet** - Matrix factorisations
+* 22-7 **Daniel Murfet** - Matrix factorisations - in metauni [locus LC001](http://metauni.org/posts/loci/loci). You need to follow the instructions there to install Roblox (for the boards) and Discord (for audio).
+
+Upcoming:
+
 * **Daniel Murfet** - The cut operation on matrix factorisations
 * **James Clift** - Smooth relaxations of Turing machines
 * **Will Troiani** - Geometry of Interaction I: proofs as operators

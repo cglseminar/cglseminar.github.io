@@ -10,7 +10,7 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 * 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/TUaqBmV75vg)
 * 17-6 **Will Troiani** - Geometry of Interaction zero: proofs as permutations - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/jcqTq4a1kjY).
 * 8-7 **Tom Waring** - System F: strong normalisation - [notes](./sem.pdf).
-* 22-7 **Daniel Murfet** - Matrix factorisations - in metauni [locus LC001](http://metauni.org/posts/loci/loci). You need to follow the [instructions](https://metauni.org/posts/instructions/instructions) to install Roblox (for the boards) and Discord (for audio). There will be **no live Zoom stream**.
+* 22-7 **Daniel Murfet** - Matrix factorisations - in metauni [locus LC001](http://metauni.org/posts/loci/loci). For the mathematical content see [video1](https://youtu.be/39d4g1ERDpw), [video2](https://youtu.be/D_LoTZ8OYsc), [video3](https://youtu.be/ipqKvNHnABs) and for questions see [this](https://youtu.be/NgzDpd_C2d8).
 
 Upcoming:
 

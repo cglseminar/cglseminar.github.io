@@ -1,6 +1,6 @@
 A [mad day's work](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) in theoretical computer science, mathematical logic, algebraic geometry and statistical learning theory.
 
-The seminar takes place on every second Thursday (see below for the schedule) in the Russell Love room of Peter Hall at the University of Melbourne, 11am-12pm Melbourne time. The seminars will be streamed live via [Zoom](https://unimelb.zoom.us/j/83059420071?pwd=VitKZjhvdkxmKzR6dmduLzhXYUI1UT09) and questions can be directed to the speaker, via a moderator, via Zoom chat. In between seminars discussions and announcements take place on the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8). Talks will be recorded and posted to the [CGL YouTube channel](https://youtube.com/playlist?list=PLKnx70LRf21dknsbvkSM1dx-m0DoyUukQ) within about a week.
+The seminar takes place on every second Thursday (see below for the schedule) at 11am-12pm Melbourne time. If we're not in lockdown the venue will be the Russell Love room of Peter Hall at the University of Melbourne. The seminars will be streamed live via [Zoom](https://unimelb.zoom.us/j/83059420071?pwd=VitKZjhvdkxmKzR6dmduLzhXYUI1UT09) unless advertised otherwise in the schedule below, and questions can be directed to the speaker, via a moderator, via Zoom chat. In between seminars discussions and announcements take place on the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8). Talks will be recorded and posted to the [CGL YouTube channel](https://youtube.com/playlist?list=PLKnx70LRf21dknsbvkSM1dx-m0DoyUukQ) within about a week.
 
 Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Murfet](http://www.therisingsea.org).
 
@@ -10,7 +10,7 @@ Co-organised by [Will Troiani](https://williamtroiani.github.io) and [Daniel Mur
 * 3-6 **Will Troiani** - Proof-nets: the Sequentialisation Theorem - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/TUaqBmV75vg)
 * 17-6 **Will Troiani** - Geometry of Interaction zero: proofs as permutations - [notes](https://williamtroiani.github.io/pdfs/Proof-nets.pdf), [video](https://youtu.be/jcqTq4a1kjY).
 * 8-7 **Tom Waring** - System F: strong normalisation - [notes](./sem.pdf).
-* 22-7 **Daniel Murfet** - Matrix factorisations - in metauni [locus LC001](http://metauni.org/posts/loci/loci). You need to follow the instructions there to install Roblox (for the boards) and Discord (for audio).
+* 22-7 **Daniel Murfet** - Matrix factorisations - in metauni [locus LC001](http://metauni.org/posts/loci/loci). You need to follow the [instructions](https://metauni.org/posts/instructions/instructions) to install Roblox (for the boards) and Discord (for audio). There will be **no live Zoom stream**.
 
 Upcoming:
 
